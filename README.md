@@ -21,4 +21,4 @@ Estos cambios se realizaron con el objetivo de mejorar la **organizaci√≥n del c√
 ---
 
  **Repositorio GitHub:**  
-https://github.com/451750/Examen_Final_Mejia_Mathias.git
+https://github.com/023daniii/Examen_Programaci-nll_Lanchimba_Danny.git
