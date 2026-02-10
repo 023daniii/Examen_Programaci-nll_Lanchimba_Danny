@@ -1,4 +1,4 @@
-#  ExoTrooper  
+#  Lanchimba MUTANGENO  
 ## Examen de Recuperación – Programación II  
 
 **Escuela Politécnica Nacional**  
