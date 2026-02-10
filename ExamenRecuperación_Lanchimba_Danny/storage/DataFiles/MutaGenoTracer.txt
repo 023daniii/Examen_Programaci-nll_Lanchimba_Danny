@@ -1,0 +1,153 @@
+2026/02/09 21:42:58 - GOOD: Agregados 5 Gatos.
+2026/02/09 21:43:02 - ADVERTENCIA: Seleccione un gato.
+2026/02/09 21:43:47 - GOOD: Agregados 5 Gatos.
+2026/02/09 21:43:51 - ADVERTENCIA: ERROR: El gato debe estar MUTADO y ENTRENADO.
+2026/02/09 21:43:56 - ADVERTENCIA: ERROR: El gato debe estar MUTADO y ENTRENADO.
+2026/02/09 21:43:58 - GOOD: Entrenamiento exitoso.
+2026/02/09 21:44:17 - ADVERTENCIA: ERROR: El gato debe estar MUTADO y ENTRENADO.
+2026/02/09 21:51:43 - GOOD: Generación de 5 especímenes.
+2026/02/09 21:51:47 - GOOD: Entrenamiento completado.
+2026/02/09 21:51:52 - FAIL: ERROR: El espécimen no ha mutado. Requiere fase Lanchimba.
+2026/02/09 21:51:56 - GOOD: Mutación exitosa ID 5
+2026/02/09 21:52:02 - GOOD: Mutación exitosa ID 3
+2026/02/09 21:52:06 - GOOD: Mutación exitosa ID 3
+2026/02/09 21:52:07 - GOOD: Mutación exitosa ID 3
+2026/02/09 21:56:53 - GOOD: Agregados 5 Gatos.
+2026/02/09 21:56:58 - GOOD: Biólogo Lanchimba Danny mutó Gato ID 5
+2026/02/09 21:57:06 - GOOD: Biólogo Lanchimba Danny mutó Gato ID 5
+2026/02/09 21:57:07 - GOOD: Biólogo Lanchimba Danny mutó Gato ID 5
+2026/02/09 21:57:08 - GOOD: Biólogo Lanchimba Danny mutó Gato ID 5
+2026/02/09 21:57:08 - GOOD: Biólogo Lanchimba Danny mutó Gato ID 5
+2026/02/09 21:57:09 - GOOD: Biólogo Lanchimba Danny mutó Gato ID 5
+2026/02/09 21:57:09 - GOOD: Biólogo Lanchimba Danny mutó Gato ID 5
+2026/02/09 21:57:09 - GOOD: Biólogo Lanchimba Danny mutó Gato ID 5
+2026/02/09 21:57:10 - GOOD: Biólogo Lanchimba Danny mutó Gato ID 5
+2026/02/09 21:57:10 - GOOD: Biólogo Lanchimba Danny mutó Gato ID 5
+2026/02/09 21:57:19 - ADVERTENCIA: Tanque Geno vacío. No se puede mutar.
+2026/02/09 21:59:07 - Biólogo Lanchimba Danny agregó 5 gatos.
+2026/02/09 21:59:09 - GOOD: Gato mutado por Lanchimba Danny
+2026/02/09 22:00:06 - FAIL: Seleccione un gato.
+2026/02/09 22:00:07 - Biólogo Lanchimba Danny agregó 5 gatos.
+2026/02/09 22:00:09 - GOOD: Gato mutado por Lanchimba Danny
+2026/02/09 22:00:15 - FAIL: ERROR: Requiere Mutacion y Entrenamiento.
+2026/02/09 22:00:18 - GOOD: Gato mutado por Lanchimba Danny
+2026/02/09 22:00:20 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:29 - Biólogo Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:02:32 - GOOD: Gato mutado por Lanchimba Danny
+2026/02/09 22:02:39 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:42 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:42 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:42 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:43 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:43 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:43 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:43 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:43 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:44 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:02:46 - GOOD: Disparo de LASER realizado por Lanchimba Danny
+2026/02/09 22:04:03 - Biólogo Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:04:07 - GOOD: Mutación de pata completada.
+2026/02/09 22:04:13 - GOOD: Biólogo Lanchimba Danny entrenó la pata
+2026/02/09 22:04:19 - GOOD: Disparo de BALA ejecutado.
+2026/02/09 22:04:28 - GOOD: Biólogo Lanchimba Danny entrenó la pata
+2026/02/09 22:04:29 - GOOD: Disparo de BALA ejecutado.
+2026/02/09 22:04:31 - GOOD: Biólogo Lanchimba Danny entrenó la pata
+2026/02/09 22:04:35 - GOOD: Biólogo Lanchimba Danny entrenó la pata
+2026/02/09 22:04:36 - GOOD: Disparo de LASER ejecutado.
+2026/02/09 22:04:58 - FAIL: Seleccione un gato para mutar.
+2026/02/09 22:04:59 - Biólogo Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:05:02 - GOOD: Gato mutado por Lanchimba Danny
+2026/02/09 22:05:05 - GOOD: Entrenamiento con Arma 1
+2026/02/09 22:05:09 - GOOD: Disparo de BALA realizado por Lanchimba Danny
+2026/02/09 22:05:10 - GOOD: Disparo de BALA realizado por Lanchimba Danny
+2026/02/09 22:05:11 - GOOD: Entrenamiento con Arma 2
+2026/02/09 22:05:12 - GOOD: Disparo de BALA realizado por Lanchimba Danny
+2026/02/09 22:07:08 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:07:14 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:07:14 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:07:14 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:07:14 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:07:15 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:07:28 - GOOD: Gato mutado.
+2026/02/09 22:07:44 - FAIL: Ya está mutado.
+2026/02/09 22:07:46 - GOOD: Entrenamiento de pata completado.
+2026/02/09 22:07:50 - GOOD: Disparo realizado.
+2026/02/09 22:07:56 - GOOD: Entrenamiento de pata completado.
+2026/02/09 22:07:57 - GOOD: Disparo realizado.
+2026/02/09 22:08:03 - FAIL: Ya está mutado.
+2026/02/09 22:09:33 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:09:37 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:10:29 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:10:38 - FAIL: Error: Debe seleccionar un espécimen de la tabla.
+2026/02/09 22:10:40 - GOOD: Gato ID 5 mutado.
+2026/02/09 22:11:49 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:11:51 - GOOD: Gato ID 5 mutado.
+2026/02/09 22:12:02 - GOOD: Entrenamiento ID 5 completado.
+2026/02/09 22:12:05 - GOOD: Disparo ID 5 realizado.
+2026/02/09 22:12:11 - GOOD: Entrenamiento ID 5 completado.
+2026/02/09 22:12:12 - GOOD: Disparo ID 5 realizado.
+2026/02/09 22:12:16 - GOOD: Entrenamiento ID 5 completado.
+2026/02/09 22:13:39 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:13:42 - GOOD: Gato ID 5 mutado.
+2026/02/09 22:13:53 - GOOD: Entrenamiento ID 5 completado (Contador 0).
+2026/02/09 22:13:54 - GOOD: Disparo ID 5 realizado.
+2026/02/09 22:13:55 - GOOD: Disparo ID 5 realizado.
+2026/02/09 22:13:55 - GOOD: Disparo ID 5 realizado.
+2026/02/09 22:13:59 - GOOD: Entrenamiento ID 5 completado (Contador 0).
+2026/02/09 22:14:01 - GOOD: Disparo ID 5 realizado.
+2026/02/09 22:15:47 - Alumno Lanchimba Danny agregó 5 especímenes.
+2026/02/09 22:15:51 - GOOD: Gato ID 5 mutado.
+2026/02/09 22:15:55 - FAIL: ERROR: El gato con ID 5 requiere Mutación y Entrenamiento.
+2026/02/09 22:15:56 - GOOD: Entrenamiento ID 5 completado (Contador 0).
+2026/02/09 22:15:58 - GOOD: Disparo ID 5 realizado.
+2026/02/09 22:16:01 - GOOD: Entrenamiento ID 5 completado (Contador 0).
+2026/02/09 22:16:13 - GOOD: Disparo ID 5 realizado.
+2026/02/09 22:16:18 - FAIL: El gato con ID 5 ya está mutado.
+2026/02/09 22:30:49 - FAIL: Error: Debe seleccionar un espécimen de la tabla.
+2026/02/09 22:30:50 - Alumno Lanchimba Danny agregó 5 especímenes.
+GOOD: Acceso concedido al biólogo Lanchimba Danny
+2026/02/09 22:37:20 - Alumno Lanchimba Danny agregó 5 especímenes.
+GOOD: Se han inyectado 5 especímenes al laboratorio por Lanchimba Danny
+2026/02/09 22:43:33 - Biologo Danny agregó 5 especímenes.
+GOOD: Gato ID 5 mutado a Macho exitosamente.
+2026/02/09 22:43:37 - GOOD: Mutación ID 5 completada.
+FAIL: ERROR: El gato con ID 5 requiere Mutación y Entrenamiento.
+2026/02/09 22:43:45 - FAIL: ERROR: El gato con ID 5 requiere Mutación y Entrenamiento.
+FAIL: El gato con ID 5 ya está mutado.
+2026/02/09 22:43:50 - FAIL: El gato con ID 5 ya está mutado.
+GOOD: Gato ID 5 entrenado en Arma 1
+2026/02/09 22:43:51 - GOOD: Entrenamiento ID 5 completado.
+GOOD: Acceso concedido al biólogo Lanchimba Danny
+GOOD: Acceso concedido al biólogo Lanchimba Danny
+GOOD: Se han inyectado 5 especímenes al laboratorio por Lanchimba Danny
+2026/02/09 22:49:51 - Biologo Danny agregó 5 especímenes.
+GOOD: Gato ID 5 mutado a Macho exitosamente.
+2026/02/09 22:49:54 - GOOD: Mutación ID 5 completada.
+FAIL: ERROR: El gato con ID 5 requiere Mutación y Entrenamiento.
+2026/02/09 22:50:00 - FAIL: ERROR: El gato con ID 5 requiere Mutación y Entrenamiento.
+GOOD: Gato ID 5 entrenado en Arma 1
+2026/02/09 22:50:01 - GOOD: Entrenamiento ID 5 completado.
+GOOD: Gato ID 5 disparo Arma 1 y Arma 2 con Arma 1: Bala de Gato
+2026/02/09 22:50:02 - GOOD: Gato ID 5 disparo Arma 1 y Arma 2 con Arma 1: Bala de Gato
+GOOD: Gato ID 5 disparo Arma 1 y Arma 2 con Arma 2: Rayo Mutante
+2026/02/09 22:50:09 - GOOD: Gato ID 5 disparo Arma 1 y Arma 2 con Arma 2: Rayo Mutante
+GOOD: Gato ID 5 entrenado en Arma 2
+2026/02/09 22:50:10 - GOOD: Entrenamiento ID 5 completado.
+GOOD: Gato ID 5 disparo Arma 1 y Arma 2 con Arma 1: Bala de Gato
+2026/02/09 22:50:12 - GOOD: Gato ID 5 disparo Arma 1 y Arma 2 con Arma 1: Bala de Gato
+GOOD: Se han inyectado 5 especímenes al laboratorio por Lanchimba Danny
+2026/02/09 22:52:47 - Biologo Danny agregó 5 especímenes.
+FAIL: ERROR: El gato con ID 6 requiere Mutación y Entrenamiento.
+2026/02/09 22:52:53 - FAIL: ERROR: El gato con ID 6 requiere Mutación y Entrenamiento.
+GOOD: Gato ID 6 mutado a Macho exitosamente.
+2026/02/09 22:52:55 - GOOD: Mutación ID 6 completada.
+FAIL: El gato con ID 6 ya está mutado.
+2026/02/09 22:52:58 - FAIL: El gato con ID 6 ya está mutado.
+GOOD: Gato ID 6 entrenado en Arma 2
+2026/02/09 22:53:00 - GOOD: Entrenamiento ID 6 completado.
+GOOD: Gato ID 6 disparo Arma 1 y Arma 2 con Arma 2: Rayo Mutante
+2026/02/09 22:53:01 - GOOD: Gato ID 6 disparo Arma 1 y Arma 2 con Arma 2: Rayo Mutante
+GOOD: Gato ID 6 entrenado en Arma 1
+2026/02/09 22:53:04 - GOOD: Entrenamiento ID 6 completado.
+GOOD: Gato ID 6 disparo Arma 1 y Arma 2 con Arma 1: Bala de Gato
+2026/02/09 22:53:05 - GOOD: Gato ID 6 disparo Arma 1 y Arma 2 con Arma 1: Bala de Gato
